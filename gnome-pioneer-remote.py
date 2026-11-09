@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# Pioneer SC-65 Remote Control for GNOME
+# Pioneer Remote Control for GNOME
 # Copyright (C) 2026 Bnargin https://github.com/M3s4R00t
 #
 # This program is free software: you can redistribute it and/or modify
