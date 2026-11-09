@@ -2,7 +2,7 @@
 Name=Pioneer Remote GNOME
 Comment=Control Pioneer Elite and VSX receivers
 Exec=pioneer-remote-gnome.py
-Icon=com.github.M3s4R00t.PioneerRemote
+Icon=com.github.M3s4R00t.pioneer-remote
 Terminal=false
 Type=Application
 Categories=Audio;Network;
