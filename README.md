@@ -1,11 +1,11 @@
-# Pioneer Remote
+# Pioneer-Remote-GNOME
 ██████╗ ██████╗  ██████╗ ██╗  ██╗
 ██╔════╝ ██╔══██╗██╔═══██╗██║ ██╔╝
 ██║  ███╗██████╔╝██║   ██║█████╔╝ 
 ██║   ██║██╔══██╗██║   ██║██╔═██╗ 
 ╚██████╔╝██║  ██║╚██████╔╝██║  ██╗
  ╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝
-        Pioneer SC-65 Remote
+        Pioneer-Remote-GNOME
      vibe coded with Grok (xAI)
 
 A lightweight native GNOME remote for Pioneer Elite and VSX receivers that use the IP control protocol on port 8102.
