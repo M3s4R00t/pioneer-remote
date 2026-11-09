@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Pioneer Remote GNOME
+Comment=Control Pioneer Elite and VSX receivers
+Exec=python3 %h/Applications/pioneer-remote/pioneer-remote-gnome.py
+Icon=%h/Applications/pioneer-remote/pioneer-remote-gnome.png
+Terminal=false
+Type=Application
+Categories=AudioVideo;Audio;Network;
+Keywords=pioneer;avr;remote;receiver;
+StartupNotify=true
