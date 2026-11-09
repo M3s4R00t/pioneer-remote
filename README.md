@@ -7,7 +7,6 @@
         Pioneer SC-65 Remote
      vibe coded with Grok (xAI)
 
-
 A lightweight native GNOME remote for Pioneer Elite and VSX receivers that use the IP control protocol on port 8102.
 
 ## About
@@ -20,6 +19,7 @@ High confidence: SC-65, SC-63, SC-67, SC-68, SC-71, SC-72, SC-77, SC-79,
 SC-1223 / 1227 / 1228 / 1323 / 1522 / 1523 / 1527,  
 VSX-1123 / 1124 / 1125 / 1128 / 1133 / 1325 / 1326,  
 and most other VSX models of the same generation that respond on port 8102.
+
 
 
 
