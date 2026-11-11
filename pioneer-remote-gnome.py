@@ -788,24 +788,3 @@ if __name__ == "__main__":
         app.run(None)
     except Exception:
         traceback.print_exc()
-        action = Gio.SimpleAction.new(name, None)
-        action.connect("activate", callback)
-        self.add_action(action)
-
-    def on_activate(self, app):
-        print("Activating window")
-        self.win = PioneerWindow(application=app)
-        self.win.present()
-        print("Window presented")
-
-    def on_preferences(self, *_):
-        if hasattr(self, "win"):
-            self.win.show_preferences()
-
-if __name__ == "__main__":
-    try:
-        print("Starting application")
-        app = PioneerApp()
-        app.run(None)
-    except Exception:
-        traceback.print_exc()
